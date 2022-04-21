@@ -1,4 +1,4 @@
-#### Hi, I'm Pim Erlandsson! 👋
+### Hi, I'm Pim Erlandsson! 👋
 I am 20 years old and a MSc Information Technology student at KTH.
 ###  Connect with me - [LinkedIn @Pim Erlandsson](https://se.linkedin.com/in/pim-e-4114381a4)
 
