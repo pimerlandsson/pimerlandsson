@@ -1,3 +1,5 @@
+### Hi, I'm Pim Erlandsson!
+
 - 👋 Hi, I’m @pimerlandsson
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning functional programming
