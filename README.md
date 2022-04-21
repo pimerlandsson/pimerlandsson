@@ -1,7 +1,6 @@
-### Hi, I'm Pim Erlandsson! 👋
+##### Hi, I'm Pim Erlandsson! 👋
 I am 20 years old and a MSc Information Technology student at KTH.
-- 👀 I’m interested in programming
-### 📫 how to reach me - [LinkedIn @Pim Erlandsson](https://se.linkedin.com/in/pim-e-4114381a4)
+###  Connect with me - [LinkedIn @Pim Erlandsson](https://se.linkedin.com/in/pim-e-4114381a4)
 
 <!---
 pimerlandsson/pimerlandsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
