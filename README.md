@@ -2,6 +2,7 @@
 I am 20 years old and a MSc Information Technology student at KTH.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning functional programming
+- 📫 how to reach me - [linkedin](https://se.linkedin.com/in/pim-e-4114381a4)
 
 <!---
 pimerlandsson/pimerlandsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
